@@ -1,7 +1,7 @@
 ---
 title: New Beginnings towards learning Advanced JS
 date: "2021-05-26T10:20:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Update it soon.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
