@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Hello Folks
+date: "2021-05-26T22:10:08.284Z"
+description: "My name is sachin rokade, I'm a web-developer, intrested in Blockchain Technology. "
 ---
 
 This is my first post on my new fake blog! How exciting!

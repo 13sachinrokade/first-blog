@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Sachin's itzzsachi-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "College Student",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Sachin Rokade  <13sachinrokade@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/13sachinrokade/first-blog/issues"
   },
   "dependencies": {
     "gatsby": "^3.4.1",
@@ -35,15 +35,13 @@
   "devDependencies": {
     "prettier": "2.2.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "homepage": "https://github.com/13sachinrokade/first-blog/blob/main/README.md",
+  "keywords": ["Sachin"],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/13sachinrokade/first-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
